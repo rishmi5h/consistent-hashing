@@ -11,6 +11,6 @@ Example :
 
 
 ref: 
-1. ![Consistent hashing](https://tom-e-white.com/2007/11/consistent-hashing.html)
-2. ![CS168: The Modern Algorithmic Toolbox
+1. [Consistent hashing](https://tom-e-white.com/2007/11/consistent-hashing.html)
+2. [CS168: The Modern Algorithmic Toolbox
 Lecture #1: Introduction and Consistent Hashing](http://theory.stanford.edu/~tim/s16/l/l1.pdf)
